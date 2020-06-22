@@ -6,7 +6,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 import time
 import json	
-
+# My side of changes i did here
 
 chrome_options = Options()
 chrome_options.add_argument("--headless") 
